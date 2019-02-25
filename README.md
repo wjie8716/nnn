@@ -155,7 +155,7 @@ Intrigued? Find out [HOW](https://github.com/jarun/nnn/wiki/performance-factors)
 | atool, patool ([integration](https://github.com/jarun/nnn/wiki/How-to#integrate-patool)) | create, list and extract archives |
 | vidir (from moreutils) | batch rename, move, delete dir entries |
 | vlock (Linux), bashlock (macOS), lock(1) (BSD) | terminal locker |
-| advcpmv (Linux-only) ([integration](https://github.com/jarun/nnn/wiki/How-to#show-cp-mv-progress)) | copy, move progress |
+| advcpmv (Linux) ([integration](https://github.com/jarun/nnn/wiki/How-to#show-cp-mv-progress)) | copy, move progress |
 | $EDITOR (overridden by $VISUAL, if defined) | edit files (fallback vi) |
 | $PAGER (less, most) | page through files (fallback less) |
 | $SHELL (single coombined argument) | spawn a shell, run script (fallback sh) |
