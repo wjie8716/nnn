@@ -391,7 +391,7 @@ The following indicators are used in the detail view:
 | `NNN_NO_AUTOSELECT=1` | do not auto-select matching dir in _nav-as-you-type` mode |
 | `NNN_RESTRICT_NAV_OPEN=1` | open files on <kbd> ↵</kbd>, not <kbd>→</kbd> or <kbd>l</kbd> |
 | `NNN_RESTRICT_0B=1` | do not open 0-byte files |
-| `NNN_CP_MV_PROG=1` | show copy, move progress (Linux-only) |
+| `NNN_CP_MV_PROG=1` | show copy, move progress on Linux |
 
 #### Help
 
